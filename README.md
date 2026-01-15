@@ -1,8 +1,8 @@
 # Finnian Murphy
-## Student at Georgetown University studying Mathematics and Computer Science
-## SwiftUI enthusiast 
-## Still don't know Rust
-
+- Student at Georgetown University studying Mathematics and Computer Science
+- SwiftUI and C++ enthusiast 
+- Still don't know Rust :(
+- Solarized > > >
 
 <!--
 **Fin-Murphy/Fin-Murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
