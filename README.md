@@ -3,5 +3,6 @@
 - SwiftUI, C++, Java in a pinch
 - ~~Still don't know Rust~~ Learning Rust 
 - Solarized; Selenized; Gruvbox;
+- LEDs blown out: 20+, and counting
 
 <!--
